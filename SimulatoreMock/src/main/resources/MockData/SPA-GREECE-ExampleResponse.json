@@ -1,0 +1,1185 @@
+{
+  "protocol": "tanda/http",
+  "version": "1.0",
+  "entity": "vehicle",
+  "operation": "list",
+  "status": "OK",
+  "message": "Data OK",
+  "data": {
+    "id": 1,
+    "name": "Aegean Motorway 2",
+    "vehicles": [
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 400,
+            "speedLeft": 144,
+            "speedRight": 144,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 461,
+            "weightRight": 341,
+            "weight": 802,
+            "wheelbase": 2731
+          },
+          {
+            "number": 2,
+            "overhang": 600,
+            "speedLeft": 144,
+            "speedRight": 144,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 332,
+            "weightRight": 243,
+            "weight": 575,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 2,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 1,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "1"
+          },
+          {
+            "name": "rsd8",
+            "value": "2"
+          }
+        ],
+        "gap": 18600,
+        "gvw": 1377,
+        "gvwAfterAllowance": 0,
+        "hash": "38fd56c27b1a0f549b361e449c4a0fded5d3014e3f69bd1c89881b392c0524cd",
+        "height": 0,
+        "id": 2343933,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343933/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343933/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 4600,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "XEY7794",
+            "confidence": 52,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 144,
+        "stamp": "2023-11-20T11:43:56.743441+02:00",
+        "timestamp": "2023-11-20T11:43:56.743441+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 1,
+        "valid": true,
+        "validity": 23,
+        "violations": [],
+        "reports": [],
+        "flags": [],
+        "width": 0,
+        "violation": 0,
+        "busy": 256
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 400,
+            "speedLeft": 100,
+            "speedRight": 100,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 428,
+            "weightRight": 395,
+            "weight": 823,
+            "wheelbase": 2872
+          },
+          {
+            "number": 2,
+            "overhang": 600,
+            "speedLeft": 100,
+            "speedRight": 100,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 298,
+            "weightRight": 276,
+            "weight": 574,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 2,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 1,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "1"
+          },
+          {
+            "name": "rsd8",
+            "value": "2"
+          }
+        ],
+        "gap": 8240,
+        "gvw": 1397,
+        "gvwAfterAllowance": 0,
+        "hash": "8c5007b74fcdc13d826e4db49627dfa1b11971f6575ed7a2acea946275c874da",
+        "height": 0,
+        "id": 2343932,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343932/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343932/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 4700,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "ZNH2049",
+            "confidence": 53,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 100,
+        "stamp": "2023-11-20T11:43:37.913888+02:00",
+        "timestamp": "2023-11-20T11:43:37.913888+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 1,
+        "valid": true,
+        "validity": 23,
+        "violations": [],
+        "reports": [],
+        "flags": [],
+        "width": 0,
+        "violation": 0,
+        "busy": 312
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 0,
+            "speedLeft": 99,
+            "speedRight": 99,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 0,
+            "weightRight": 3651,
+            "weight": 3651,
+            "wheelbase": 4027
+          },
+          {
+            "number": 2,
+            "overhang": 0,
+            "speedLeft": 99,
+            "speedRight": 99,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 0,
+            "weightRight": 2994,
+            "weight": 2994,
+            "wheelbase": 4890
+          },
+          {
+            "number": 3,
+            "overhang": 0,
+            "speedLeft": 99,
+            "speedRight": 99,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 0,
+            "weightRight": 4017,
+            "weight": 4017,
+            "wheelbase": 1477
+          },
+          {
+            "number": 4,
+            "overhang": 0,
+            "speedLeft": 99,
+            "speedRight": 99,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 0,
+            "weightRight": 4384,
+            "weight": 4384,
+            "wheelbase": 1475
+          },
+          {
+            "number": 5,
+            "overhang": 0,
+            "speedLeft": 99,
+            "speedRight": 99,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 0,
+            "weightRight": 4338,
+            "weight": 4338,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 5,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 9,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "9"
+          },
+          {
+            "name": "rsd8",
+            "value": "7"
+          }
+        ],
+        "gap": 12848,
+        "gvw": 19384,
+        "gvwAfterAllowance": 0,
+        "hash": null,
+        "height": 0,
+        "id": 2343931,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343931/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343931/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 11869,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [],
+        "adr": [],
+        "speed": 99,
+        "stamp": "2023-11-20T11:43:29.498217+02:00",
+        "timestamp": "2023-11-20T11:43:29.498217+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 23,
+        "valid": false,
+        "validity": 1,
+        "violations": [],
+        "reports": [],
+        "flags": [
+          {
+            "id": 0,
+            "name": "INVALID_MEASUREMENT"
+          },
+          {
+            "id": 2,
+            "name": "MISSING_FIRST_LEFT_SENSOR"
+          },
+          {
+            "id": 19,
+            "name": "HALF_CAR"
+          }
+        ],
+        "width": 0,
+        "violation": 0,
+        "busy": 564
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 400,
+            "speedLeft": 108,
+            "speedRight": 108,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 421,
+            "weightRight": 272,
+            "weight": 693,
+            "wheelbase": 2714
+          },
+          {
+            "number": 2,
+            "overhang": 600,
+            "speedLeft": 108,
+            "speedRight": 108,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 256,
+            "weightRight": 166,
+            "weight": 422,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 2,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 1,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "1"
+          },
+          {
+            "name": "rsd8",
+            "value": "2"
+          }
+        ],
+        "gap": 25008,
+        "gvw": 1115,
+        "gvwAfterAllowance": 0,
+        "hash": "550dd3d037261c9d8f214162fc0e3a933660c6f2601bfd96c9a0ced7efb004bb",
+        "height": 0,
+        "id": 2343930,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343930/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343930/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 4600,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "PMB3884",
+            "confidence": 46,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 108,
+        "stamp": "2023-11-20T11:42:51.799335+02:00",
+        "timestamp": "2023-11-20T11:42:51.799335+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 1,
+        "valid": true,
+        "validity": 23,
+        "violations": [],
+        "reports": [],
+        "flags": [],
+        "width": 0,
+        "violation": 0,
+        "busy": 280
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 400,
+            "speedLeft": 84,
+            "speedRight": 84,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4028,
+            "weightRight": 3360,
+            "weight": 7388,
+            "wheelbase": 3941
+          },
+          {
+            "number": 2,
+            "overhang": 0,
+            "speedLeft": 84,
+            "speedRight": 84,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 6266,
+            "weightRight": 5510,
+            "weight": 11776,
+            "wheelbase": 5584
+          },
+          {
+            "number": 3,
+            "overhang": 0,
+            "speedLeft": 84,
+            "speedRight": 84,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4569,
+            "weightRight": 3992,
+            "weight": 8561,
+            "wheelbase": 1369
+          },
+          {
+            "number": 4,
+            "overhang": 0,
+            "speedLeft": 84,
+            "speedRight": 84,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4564,
+            "weightRight": 3711,
+            "weight": 8275,
+            "wheelbase": 1368
+          },
+          {
+            "number": 5,
+            "overhang": 600,
+            "speedLeft": 84,
+            "speedRight": 84,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4225,
+            "weightRight": 4027,
+            "weight": 8252,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 5,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 9,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "9"
+          },
+          {
+            "name": "rsd8",
+            "value": "7"
+          }
+        ],
+        "gap": 20288,
+        "gvw": 44252,
+        "gvwAfterAllowance": 0,
+        "hash": "e4ead58ecb4568642f955a840fc89db397dc78e6c70b8f95b10ae18ba6bfef62",
+        "height": 0,
+        "id": 2343929,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343929/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343929/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 16300,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "IAZ4546",
+            "confidence": 38,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 84,
+        "stamp": "2023-11-20T11:42:26.016852+02:00",
+        "timestamp": "2023-11-20T11:42:26.016852+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 23,
+        "valid": true,
+        "validity": 0,
+        "violations": [],
+        "reports": [],
+        "flags": [],
+        "width": 0,
+        "violation": 0,
+        "busy": 855
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 400,
+            "speedLeft": 79,
+            "speedRight": 79,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4672,
+            "weightRight": 3287,
+            "weight": 7959,
+            "wheelbase": 3854
+          },
+          {
+            "number": 2,
+            "overhang": 0,
+            "speedLeft": 79,
+            "speedRight": 79,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 7343,
+            "weightRight": 5026,
+            "weight": 12369,
+            "wheelbase": 4853
+          },
+          {
+            "number": 3,
+            "overhang": 0,
+            "speedLeft": 79,
+            "speedRight": 79,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4946,
+            "weightRight": 3260,
+            "weight": 8206,
+            "wheelbase": 1353
+          },
+          {
+            "number": 4,
+            "overhang": 0,
+            "speedLeft": 79,
+            "speedRight": 79,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4975,
+            "weightRight": 3207,
+            "weight": 8182,
+            "wheelbase": 1361
+          },
+          {
+            "number": 5,
+            "overhang": 600,
+            "speedLeft": 79,
+            "speedRight": 79,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 4694,
+            "weightRight": 2938,
+            "weight": 7632,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 5,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 9,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "9"
+          },
+          {
+            "name": "rsd8",
+            "value": "7"
+          }
+        ],
+        "gap": 1544,
+        "gvw": 44348,
+        "gvwAfterAllowance": 0,
+        "hash": "34c02d64bd14ff888c7e16039a7064044e89226708043d5b3a4d91c8ba9df523",
+        "height": 0,
+        "id": 2343928,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343928/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343928/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 16300,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "EKA6900",
+            "confidence": 15,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [
+          {
+            "kemler": "3256",
+            "un": "30",
+            "confidence": 26,
+            "source": "Front",
+            "textColor": "black",
+            "backgroundColor": "orange"
+          }
+        ],
+        "speed": 79,
+        "stamp": "2023-11-20T11:42:04.91778+02:00",
+        "timestamp": "2023-11-20T11:42:04.91778+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 23,
+        "valid": true,
+        "validity": 0,
+        "violations": [],
+        "reports": [],
+        "flags": [],
+        "width": 0,
+        "violation": 0,
+        "busy": 895
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 0,
+            "speedLeft": 128,
+            "speedRight": 129,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 288,
+            "weightRight": 314,
+            "weight": 602,
+            "wheelbase": 2455
+          },
+          {
+            "number": 2,
+            "overhang": 0,
+            "speedLeft": 128,
+            "speedRight": 129,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 260,
+            "weightRight": 284,
+            "weight": 544,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 2,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 1,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "1"
+          },
+          {
+            "name": "rsd8",
+            "value": "2"
+          }
+        ],
+        "gap": 22208,
+        "gvw": 1146,
+        "gvwAfterAllowance": 0,
+        "hash": null,
+        "height": 0,
+        "id": 2343927,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343927/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343927/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 2455,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "MIX9079",
+            "confidence": 45,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 128,
+        "stamp": "2023-11-20T11:42:03.247402+02:00",
+        "timestamp": "2023-11-20T11:42:03.247402+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 1,
+        "valid": false,
+        "validity": 85,
+        "violations": [],
+        "reports": [],
+        "flags": [
+          {
+            "id": 0,
+            "name": "INVALID_MEASUREMENT"
+          },
+          {
+            "id": 9,
+            "name": "JOINED_VEHICLE"
+          }
+        ],
+        "width": 0,
+        "violation": 0,
+        "busy": 284
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 0,
+            "speedLeft": 125,
+            "speedRight": 125,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 951,
+            "weightRight": 0,
+            "weight": 951,
+            "wheelbase": 0
+          },
+          {
+            "number": 2,
+            "overhang": 0,
+            "speedLeft": 125,
+            "speedRight": 125,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 695,
+            "weightRight": 0,
+            "weight": 695,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 2,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 13,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "13"
+          },
+          {
+            "name": "rsd8",
+            "value": "1"
+          }
+        ],
+        "gap": 11624,
+        "gvw": 1646,
+        "gvwAfterAllowance": 0,
+        "hash": null,
+        "height": 0,
+        "id": 2343926,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343926/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343926/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 5100,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "BOI4388",
+            "confidence": 24,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 125,
+        "stamp": "2023-11-20T11:41:52.546176+02:00",
+        "timestamp": "2023-11-20T11:41:52.546176+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 0,
+        "valid": false,
+        "validity": 14,
+        "violations": [],
+        "reports": [],
+        "flags": [
+          {
+            "id": 0,
+            "name": "INVALID_MEASUREMENT"
+          },
+          {
+            "id": 3,
+            "name": "MISSING_SECOND_RIGHT_SENSOR"
+          },
+          {
+            "id": 19,
+            "name": "HALF_CAR"
+          }
+        ],
+        "width": 0,
+        "violation": 0,
+        "busy": 271
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 400,
+            "speedLeft": 116,
+            "speedRight": 116,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 486,
+            "weightRight": 477,
+            "weight": 963,
+            "wheelbase": 2682
+          },
+          {
+            "number": 2,
+            "overhang": 600,
+            "speedLeft": 116,
+            "speedRight": 116,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 325,
+            "weightRight": 350,
+            "weight": 675,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 2,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 1,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "1"
+          },
+          {
+            "name": "rsd8",
+            "value": "2"
+          }
+        ],
+        "gap": 9336,
+        "gvw": 1638,
+        "gvwAfterAllowance": 0,
+        "hash": "b9c946195bcaf93d2be5f96d40533ab852f93229c071333ae755f88447ce6a48",
+        "height": 0,
+        "id": 2343925,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343925/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343925/2"
+          }
+        ],
+        "lane": "L2",
+        "laneDescription": "Lane 2",
+        "length": 4800,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "ITM8727",
+            "confidence": 51,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 116,
+        "stamp": "2023-11-20T11:41:40.849605+02:00",
+        "timestamp": "2023-11-20T11:41:40.849605+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 1,
+        "valid": true,
+        "validity": 23,
+        "violations": [],
+        "reports": [],
+        "flags": [],
+        "width": 0,
+        "violation": 0,
+        "busy": 284
+      },
+      {
+        "allowance": 0,
+        "axles": [
+          {
+            "number": 1,
+            "overhang": 400,
+            "speedLeft": 93,
+            "speedRight": 93,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 520,
+            "weightRight": 414,
+            "weight": 934,
+            "wheelbase": 2744
+          },
+          {
+            "number": 2,
+            "overhang": 600,
+            "speedLeft": 93,
+            "speedRight": 93,
+            "tires": 2,
+            "tireWidth": 0,
+            "trackWidth": 0,
+            "weightLeft": 396,
+            "weightRight": 328,
+            "weight": 724,
+            "wheelbase": 0
+          }
+        ],
+        "axlesAfterAllowance": [],
+        "axlesCount": 2,
+        "direction": "RIGHT",
+        "cost323": 0,
+        "eur13": 1,
+        "userClasses": [
+          {
+            "name": "eur13",
+            "value": "1"
+          },
+          {
+            "name": "rsd8",
+            "value": "2"
+          }
+        ],
+        "gap": 29720,
+        "gvw": 1658,
+        "gvwAfterAllowance": 0,
+        "hash": "e28aacf3fcd18452ecaf2f8cfa2883f1aa8fbc929c22eaaa8cc73f68ae1516a6",
+        "height": 0,
+        "id": 2343924,
+        "images": [
+          {
+            "tag": "SNAP",
+            "url": "/api/vehicles/image/2343924/0"
+          },
+          {
+            "tag": "FULL",
+            "url": "/api/vehicles/image/2343924/2"
+          }
+        ],
+        "lane": "L1",
+        "laneDescription": "Lane 1",
+        "length": 5300,
+        "limits": [],
+        "measureStatus": "LEGALLYVERIFIED",
+        "plates": [
+          {
+            "number": "NKE6384",
+            "confidence": 49,
+            "source": "Front",
+            "country": "GRC",
+            "state": "--",
+            "textColor": "black",
+            "backgroundColor": "white"
+          }
+        ],
+        "adr": [],
+        "speed": 93,
+        "stamp": "2023-11-20T11:41:40.645954+02:00",
+        "timestamp": "2023-11-20T11:41:40.645954+02:00",
+        "station": {
+          "city": null,
+          "latitude": 0,
+          "longitude": 0,
+          "legallyVerified": false,
+          "roadNumber": null,
+          "roadOwner": null,
+          "deviceSerialNumber": "0290-5121",
+          "street": null,
+          "version": "1.28"
+        },
+        "ucid": 1,
+        "valid": true,
+        "validity": 23,
+        "violations": [],
+        "reports": [],
+        "flags": [],
+        "width": 0,
+        "violation": 0,
+        "busy": 352
+      }
+    ]
+  }
+}
