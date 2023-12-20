@@ -15,4 +15,9 @@ public class MessageWIMCross {
     private String status;
     private String message;
     private DataWIMCross data;
+
+
+
+
+
 }

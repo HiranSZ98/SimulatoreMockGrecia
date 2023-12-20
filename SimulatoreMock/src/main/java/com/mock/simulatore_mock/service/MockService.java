@@ -30,7 +30,6 @@ public class MockService {
         ObjectMapper objectMapper = new ObjectMapper();
         InputStream inputStream = new ClassPathResource("MockData/SPA-GREECE-ExampleResponse.json").getInputStream();
         JsonNode rootNode = objectMapper.readTree(inputStream);
-
         var imageUrl = extractImageUrl(rootNode, url);
         if(imageUrl != null) {
             log.info("ImageUrl: " + imageUrl);

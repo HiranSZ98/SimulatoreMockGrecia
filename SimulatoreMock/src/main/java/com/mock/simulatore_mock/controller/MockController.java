@@ -7,17 +7,15 @@ import com.mock.simulatore_mock.models.MessageWIMCross;
 import com.mock.simulatore_mock.service.MockService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
+import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 
 @Slf4j
 @RestController
-@RequestMapping("/api/vehicles")
+@RequestMapping("/api")
 public class MockController {
     private final MockService service;
 
@@ -38,15 +36,18 @@ public class MockController {
 
     }
 
-    @GetMapping("/image/0000000")
-    public MessageWIMCross findImage( @RequestParam(value = "url") String url) throws IOException {
+    @GetMapping("/vehicles/image/0000000/{id}")
+    public MessageWIMCross findImage(HttpServletRequest request) throws IOException {
+        var url = request.getRequestURL().toString();
        return service.findImage(url);
     }
 
-    @GetMapping("/findAll")
+    @GetMapping("/1.0/vehicles/findAll")
     public MessageWIMCross findAll() throws IOException {
         return service.findAll();
     }
+
+
 
 
 
